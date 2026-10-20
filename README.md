@@ -24,7 +24,7 @@ A list of osint tools/websites for pentration testing, Reverse Searching, Red te
 	<a href="https://github.com/astrosp/osint-tools#TOOLSET" target="_blank">Toolset</a></p>
 --->
 ## Index
- [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Free Media & Software Directories](#free-media--software-directories) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
+ [AI](#ai) ⁕ [Breaches & Leaks](#breaches-and-leaks) ⁕ [Basic OSINT](#basic-osint) ⁕ [Recon](#recon) ⁕ [Productivity](#productivity) ⁕ [OSINT Challenge](#osint-challenge) ⁕ [File Upload](#file-upload) ⁕ [Toolset](#toolset) ⁕ [Search Engines](#search-engines) ⁕ [Whois](#whois) ⁕ [Source Codes](#source-codes) ⁕ [Domain / IP / DNS](#domain--ip--dns) ⁕ [Malware](#malware) ⁕ [Dataset](#dataset) ⁕ [Geo](#geo) ⁕ [IoT](#iot) ⁕ [Darknet](#darknet) ⁕ [Cryptocurrency](#cryptocurrency) ⁕ [Username](#username) ⁕ [Email](#email) ⁕ [Phone](#phone) ⁕ [Whatsapp](#whatsapp) ⁕ [Social Media](#social-media) ⁕ [Facebook](#facebook) ⁕ [Twitter](#twitter) ⁕ [Youtube](#youtube) ⁕ [Instagram](#instagram) ⁕ [Reddit](#reddit) ⁕ [LinkedIn](#linkedin) ⁕ [Google](#google) ⁕ [Dork](#dork) ⁕ [Discord](#discord) ⁕ [Twitch](#twitch) ⁕ [Telegram](#telegram) ⁕ [Snapchat](#snapchat) ⁕ [TikTok](#tiktok) ⁕ [Steam](#steam) ⁕ [Clubhouse](#clubhouse) ⁕ [Messaging Apps & Communication](#messaging-apps--communication) ⁕ [News](#news) ⁕ [Bot](#bot) ⁕ [Analytics](#analytics) ⁕ [Blog](#blog) ⁕ [Throwaway Contact](#throwaway-contact) ⁕ [ID Generator](#id-generator) ⁕ [Emulator](#emulator) ⁕ [Hash Recovery](#hash-recovery) ⁕ [Downloader](#downloader) ⁕ [Privacy / Security](#privacy--security) ⁕ [Secure Communication](#secure-communication) ⁕ [Resources](#resources) ⁕ [Weather](#weather) ⁕ [World Clock](#world-clock) ⁕ [Threat Intel](#threat-intel) ⁕ [Other](#other) ⁕ [Identity Resolution](#identity-resolution) ⁕ [Unified Search](#unified-search) ⁕ [People](#people) ⁕ [Google CSE](#google-cse) ⁕ [Images and Audio](#images-and-audio) ⁕ [Video OSINT & Verification](#video-osint--verification) ⁕ [Metadata & File Analysis](#metadata--file-analysis) ⁕ [License Plate / VIN / Vehicle](#license-platevinvehicle) ⁕ [Flight Tracker](#flight-tracker) ⁕ [Maritime](#maritime) ⁕ [Open Directory](#open-directory) ⁕ [Radio](#radio) ⁕ [Resolvers](#resolvers) ⁕ [Real Estate](#real-estate) ⁕ [Corporation](#can-corporation) ⁕ [Maps](#maps) ⁕ [Data Dump](#data-dump) ⁕ [Extremist / Far-Right](#extremist--far-right) ⁕ [War / Military Conflict](#war--military-conflict) ⁕ [Finance](#finance) ⁕ [Business](#business) ⁕ [EU / Poland B2B Due Diligence](#eu--poland-b2b-due-diligence) ⁕ [Waste & Recycling](#waste--recycling) ⁕ [Police / LE / Fed](#police--le--fed) ⁕ [Informant](#informant) ⁕ [Resident Database](#resident-database) ⁕ [Public Records](#public-records) ⁕ [Government](#government) ⁕ [Vehicle / Transportation](#vehicle--transportation) ⁕ [Blockchain / Crypto Investigation](#blockchain--crypto-investigation) ⁕ [OSINT Frameworks & Browser Tools](#osint-frameworks--browser-tools) ⁕ [Academic & Research Databases](#academic--research-databases) ⁕ [OSINT Training / Learning](#osint-training--learning) ⁕ [Free Media & Software Directories](#free-media--software-directories) ⁕ [Bug Bounty / Security Research](#bug-bounty--security-research)
 
 
 #### <i>Some of other OSINT tools List</i>
@@ -1989,6 +1989,71 @@ Enter two images and the difference will show up below
 - [FL Energy Money in Politics](https://b2.caspio.com/dp.asp?AppKey=c73210001174b8c2a8d444768f5c)
 - [ValidFleetList (unknown Sail Boat database)](https://c0eru285.caspio.com/dp/0dc330002829dcc1ad864b5bb094)
 - [Viking Rifle Series Shooter Live Results](https://vikingrifleseries.caspio.com/dp/c8ac5000f29041f935cf42b6a641)
+<br>
+
+[⇧ Top](#index)
+## EU / POLAND B2B DUE DILIGENCE
+
+### Poland
+- [KRS Search](https://wyszukiwarka-krs.ms.gov.pl/) - Official National Court Register (KRS) search: board members, shareholders, capital, financial statements of Polish companies
+- [CEIDG / Biznes.gov.pl](https://www.biznes.gov.pl/pl/wyszukiwarka-firm) - Official register of Polish sole traders (JDG) and company search
+- [REGON (GUS)](https://wyszukiwarkaregon.stat.gov.pl/) - Statistics Poland business register lookup by NIP, REGON or KRS
+- [Biała lista VAT](https://www.podatki.gov.pl/wykaz-podatnikow-vat-wyszukiwarka) - Polish VAT taxpayer whitelist: VAT status and verified bank accounts (check before paying a supplier)
+- [KRZ](https://krz.ms.gov.pl/) - National Register of Debtors: bankruptcy and restructuring proceedings in Poland
+- [Rejestr.io](https://rejestr.io/) - Free aggregator of KRS data with ownership and board-member connection graphs
+
+### European Union
+- [VIES](https://ec.europa.eu/taxation_customs/vies/) - EU VAT number validation for intra-community B2B trade
+- [EORI Validation](https://ec.europa.eu/taxation_customs/dds2/eos/eori_validation.jsp) - Check EORI numbers of importers and exporters
+- [e-Justice Business Registers (BRIS)](https://e-justice.europa.eu/) - Search company registers of all EU member states from one portal
+- [GLEIF LEI Search](https://search.gleif.org/) - Global Legal Entity Identifier lookup with parent/child ownership
+- [North Data](https://www.northdata.com/) - Company data and ownership networks for Germany, Poland, Austria, Switzerland and other EU countries
+- [EU Sanctions Map](https://www.sanctionsmap.eu/) - Official overview of EU restrictive measures by country
+- [TED](https://ted.europa.eu/) - EU public procurement tenders (Tenders Electronic Daily)
+- [e-Zamówienia](https://ezamowienia.gov.pl/) - Polish public procurement platform
+
+### Germany, Czechia, Baltics
+- [Handelsregister](https://www.handelsregister.de/) - German commercial register
+- [Unternehmensregister](https://www.unternehmensregister.de/) - German company register with published financial statements
+- [ARES](https://ares.gov.cz/) - Czech economic subjects register (IČO / DIČ lookup)
+- [Veřejný rejstřík (Justice.cz)](https://or.justice.cz/) - Czech public commercial register with documents
+- [Registrų centras](https://www.registrucentras.lt/) - Lithuanian legal entities register
+- [Lursoft / UR](https://www.ur.gov.lv/) - Latvian Register of Enterprises
+- [e-Äriregister](https://ariregister.rik.ee/) - Estonian e-Business Register
+
+### Trade & Market Research
+- [Access2Markets](https://trade.ec.europa.eu/access-to-markets/) - EU tariffs, rules of origin and import requirements for non-EU markets
+- [Eurostat International Trade](https://ec.europa.eu/eurostat/web/international-trade-in-goods/database) - EU import/export statistics by product code (Comext)
+- [UN Comtrade](https://comtradeplus.un.org/) - Global trade flows by HS code and country
+- [Volza](https://www.volza.com/) - Import/export shipment data: find importers and distributors by product
+- [ImportGenius](https://www.importgenius.com/) - Customs shipment records for buyer and supplier discovery
+- [Europages](https://www.europages.com/) - European B2B directory of manufacturers, wholesalers and distributors
+- [Kompass](https://www.kompass.com/) - Global B2B company directory by industry
+
+### Brand & Product Compliance
+- [TMview](https://www.tmdn.org/tmview/) - Trademark search across EU and national offices
+- [EUIPO eSearch](https://euipo.europa.eu/eSearch/) - EU trademark and design search
+- [ECHA Chemicals Database](https://echa.europa.eu/information-on-chemicals) - REACH / CLP information on chemical substances
+- [Safety Gate](https://ec.europa.eu/safety-gate-alerts/) - EU rapid alerts on dangerous non-food products
+<br>
+
+[⇧ Top](#index)
+## WASTE & RECYCLING
+
+- [BDO Public Register](https://rejestr-bdo.mos.gov.pl/) - Polish waste register (BDO): verify that a waste collector, carrier or processor holds a valid entry
+- [BDO](https://bdo.mos.gov.pl/) - Polish Database on Products, Packaging and Waste Management
+- [GIOŚ](https://www.gios.gov.pl/) - Polish Chief Inspectorate of Environmental Protection, incl. transboundary waste shipments
+- [EU Waste Shipments](https://environment.ec.europa.eu/topics/waste-and-recycling/waste-shipments_en) - EU rules and contacts for cross-border waste shipments
+- [Basel Convention](https://www.basel.int/) - International rules and national contacts for hazardous waste shipments
+- [Eurostat Waste Statistics](https://ec.europa.eu/eurostat/web/waste) - Waste generation and treatment data by EU country
+- [EU Industrial Emissions Portal](https://industry.eea.europa.eu/) - Facility-level data on EU industrial sites, emissions and waste transfers (former E-PRTR)
+- [LUCID Packaging Register](https://lucid.verpackungsregister.org/) - German packaging EPR register: check whether a brand or distributor is registered
+- [EKO-KOM](https://www.ekokom.cz/) - Czech packaging producer responsibility organisation
+- [RecyClass](https://recyclass.eu/) - Recyclability assessment and certification of plastic packaging
+- [Plastics Recyclers Europe](https://www.plasticsrecyclers.eu/) - Association of European plastics recyclers, member directory and market data
+- [Ellen MacArthur Foundation](https://www.ellenmacarthurfoundation.org/) - Circular economy research and case studies
+- [EUR-Lex](https://eur-lex.europa.eu/) - Official EU law database (Waste Framework Directive, PPWR packaging regulation)
+- [ISAP](https://isap.sejm.gov.pl/) - Polish legal acts database (waste and packaging laws)
 <br>
 
 [⇧ Top](#index)
